@@ -1,4 +1,4 @@
-🧠 Data Warehouse and Analytics Project
+**🧠 Data Warehouse and Analytics Project**
 
 Welcome to the Data Warehouse and Analytics Project repository!
 This project demonstrates how to design and implement a complete data warehousing and analytics pipeline — from raw data ingestion to insightful reporting.
