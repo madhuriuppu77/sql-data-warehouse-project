@@ -35,10 +35,10 @@ These insights empower stakeholders to make informed, data-backed decisions.
 
 🧰 Tools & Technologies
 
-Database: Microsoft SQL Server
-Data Integration: SQL scripts for ETL
-Analytics: SQL queries, views, and reports
-Visualization (optional): Power BI / Tableau
+Database: Microsoft SQL Server.
+Data Integration: SQL scripts for ETL.
+Analytics: SQL queries, views, and reports.
+Visualization (optional): Power BI / Tableau.
 
 📘 Documentation
 
