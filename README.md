@@ -49,7 +49,7 @@ All data models, SQL scripts, and documentation are included to guide both techn
 This project is licensed under the MIT License.
 You’re free to use, modify, and share it with proper attribution.
 
-👋 About Me
+ About Me
 
 Hi there!
 I’m currently exploring Data Engineering and Analytics, and this project represents one of my first end-to-end implementations.
